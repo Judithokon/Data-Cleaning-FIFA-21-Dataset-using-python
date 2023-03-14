@@ -1,4 +1,4 @@
-# Data-Cleaning
+# FIFA 21 Data Cleaning
 
 I took part in a data cleaning contest organized by Promise Nonso and Victor Somadina. The contest presented a chance for Data Analysts of all skill levels - beginners, intermediates, and even experts - to create an impressive project that can be shared with recruiters as part of their portfolio.
 
